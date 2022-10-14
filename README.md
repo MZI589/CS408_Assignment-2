@@ -12,3 +12,8 @@ Part two stands for the table and chairs movement;
 
 Creative contains a light change;
 
+CITATION for models in project:
+
+https://assetstore.unity.com/packages/3d/low-polygon-soccer-ball-84382#publisher
+
+https://assetstore.unity.com/packages/3d/props/furniture/table-with-chairs-x3-free-101246
