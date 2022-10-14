@@ -6,6 +6,8 @@ MINGSHI ZHANG;
 
 #200404541;
 
+This project is from Unity;
+
 Once click the play bottom, it will display a short animation which contains an soccer ball moving, rotating and scaling;
 
 Part two stands for the table and chairs movement;
